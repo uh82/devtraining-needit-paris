@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Create New">f2c1b0e7db0120106f428a184896192e</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Create New</label>
+        <location>footer</location>
+        <name>Create New</name>
+        <order>10</order>
+        <parent>06ee69bedb0920106f428a1848961985</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-18 22:36:42</sys_created_on>
+        <sys_id>75f78d27db4120106f428a18489619b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_75f78d27db4120106f428a18489619b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-18 22:36:42</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=75f78d27db4120106f428a18489619b1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>bebfd4ecdbe39f447d8cf22ebf96190e</instance_id>
+        <instance_name>dev66773</instance_name>
+        <name>sys_sg_button_instance_75f78d27db4120106f428a18489619b1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Create New">f2c1b0e7db0120106f428a184896192e</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Create New</label><location>footer</location><name>Create New</name><order>10</order><parent>06ee69bedb0920106f428a1848961985</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-18 22:36:42</sys_created_on><sys_id>75f78d27db4120106f428a18489619b1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_button_instance_75f78d27db4120106f428a18489619b1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-18 22:36:42</sys_updated_on><table>x_58872_needit_needit</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=75f78d27db4120106f428a18489619b1"/></record_update>]]></payload>
+        <payload_hash>-23119298</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>9dcc762edb4120106f428a1848961913</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-18 22:36:42</sys_created_on>
+        <sys_id>39f74967db4120106f428a184896194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17677ff83680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-18 22:36:42</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>71f74967154120106ff9d75a858ed14b</update_guid>
+        <update_guid_history>71f74967154120106ff9d75a858ed14b:-23119298</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-18 22:45:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>4e7d251faded45dcbcd8cd5315dd07a4</sys_id>
+        <sys_metadata>75f78d27db4120106f428a18489619b1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_75f78d27db4120106f428a18489619b1</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_75f78d27db4120106f428a18489619b1">39f74967db4120106f428a184896194b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-18 22:45:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

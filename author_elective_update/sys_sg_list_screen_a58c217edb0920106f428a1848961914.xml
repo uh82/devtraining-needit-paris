@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description>All open NeedIt requests for next quarter</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">a98c217edb0920106f428a184896190f</icon>
+        <name>NeedIt Next Quarter</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-16 17:21:00</sys_created_on>
+        <sys_id>a58c217edb0920106f428a1848961914</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Next Quarter</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_list_screen_a58c217edb0920106f428a1848961914</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-16 17:21:00</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=a58c217edb0920106f428a1848961914"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>bebfd4ecdbe39f447d8cf22ebf96190e</instance_id>
+        <instance_name>dev66773</instance_name>
+        <name>sys_sg_list_screen_a58c217edb0920106f428a1848961914</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description>All open NeedIt requests for next quarter</description><dynamic_prefetch_count/><fetch_type>on_demand</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Address-Book">a98c217edb0920106f428a184896190f</icon><name>NeedIt Next Quarter</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-16 17:21:00</sys_created_on><sys_id>a58c217edb0920106f428a1848961914</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Next Quarter</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_list_screen_a58c217edb0920106f428a1848961914</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-16 17:21:00</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=a58c217edb0920106f428a1848961914"/></record_update>]]></payload>
+        <payload_hash>-1620877484</payload_hash>
+        <record_name>NeedIt Next Quarter</record_name>
+        <reverted_from/>
+        <source>9dcc762edb4120106f428a1848961913</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-16 17:21:00</sys_created_on>
+        <sys_id>e58c217edb0920106f428a1848961916</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1766c91c1d60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-16 17:21:00</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>218c217e44092010459513537c59c916</update_guid>
+        <update_guid_history>218c217e44092010459513537c59c916:-1620877484</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-16 17:30:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>32b2f45984664f948afc52e4fa48bd84</sys_id>
+        <sys_metadata>a58c217edb0920106f428a1848961914</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Next Quarter</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_a58c217edb0920106f428a1848961914</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_a58c217edb0920106f428a1848961914">e58c217edb0920106f428a1848961916</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-16 17:30:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
